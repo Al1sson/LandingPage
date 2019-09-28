@@ -1681,10 +1681,10 @@ div.accordion{
 .s-header {
   z-index: 500;
   width: 100%;
-  height: 78px;
+  height: 85px;
   background-color: transparent;
   position: absolute;
-  top: 28px;
+  top: 35px;
 }
 
 .s-header.sticky {
@@ -1721,8 +1721,9 @@ div.accordion{
 }
 
 .header-logo img {
-  width: 120px;
-  height: 70px;
+  width: 113px;
+  height: 75px;
+  width: 100%;
 }
 
 /* ------------------------------------------------------------------- 
@@ -1924,8 +1925,9 @@ div.accordion{
 
 @media only screen and (max-width:1200px) {
   .header-logo img {
-    width: 125px;
-    height: 70px;
+    width: 113px;
+    height: 75px;
+    width: 100%;
   }
 
   .header-nav-wrap .header-main-nav {
@@ -3507,8 +3509,9 @@ html.no-csstransitions .home-content__main {
 }
 
 .footer__logo img {
-  width: 120px;
-  height: 70px;
+  width: 113px;
+  height: 75px;
+  width: 100%;
 }
 
 /* ------------------------------------------------------------------- 
