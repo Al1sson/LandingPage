@@ -2011,8 +2011,10 @@ input::-moz-focus-inner {
   }
 
   .header-logo img {
-    width: 115px;
-    height: 65px;
+    width: 120px;
+    height: 95px;
+    padding-top: 15px;
+
   }
 
   .header-nav-wrap {
