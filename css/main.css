@@ -1722,7 +1722,7 @@ div.accordion{
 
 .header-logo img {
   width: 113px;
-  height: 75px;
+  height: 90px;
   width: 100%;
 }
 
@@ -1732,7 +1732,7 @@ div.accordion{
 .header-nav-wrap {
   font-family: "IBM Plex Sans", sans-serif;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 22px;
 }
 
 .header-nav-wrap .header-main-nav {
@@ -1926,7 +1926,7 @@ div.accordion{
 @media only screen and (max-width:1200px) {
   .header-logo img {
     width: 113px;
-    height: 75px;
+    height: 90px;
     width: 100%;
   }
 
@@ -1966,8 +1966,9 @@ div.accordion{
   }
 
   .header-logo img {
-    width: 130px;
-    height: 15px;
+    width: 113px;
+    height: 90px;
+    width: 100%;
   }
 
   .header-nav-wrap {
@@ -3510,7 +3511,7 @@ html.no-csstransitions .home-content__main {
 
 .footer__logo img {
   width: 113px;
-  height: 75px;
+  height: 90px;
   width: 100%;
 }
 
@@ -3704,8 +3705,9 @@ html.no-csstransitions .home-content__main {
   }
 
   .footer__logo img {
-    width: 130px;
+    width: 113px;
     height: 90px;
+    width: 100%;
   }
 
   .footer__site-links {
