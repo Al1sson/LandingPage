@@ -153,7 +153,7 @@ h5, .h5, h6, .h6 {
 
 @media only screen and (max-width:600px) {
   h5, .h5, h6, .h6 {
-    margin-top: 4rem;
+    margin-top: 2rem;
     margin-bottom: 0.8rem;
   }
 
@@ -1500,7 +1500,20 @@ input::-moz-focus-inner {
   margin-top: 0;
   margin-bottom: 2rem;
 }
-
+.item-title1 {
+  font-weight: 600;
+  font-size: 4rem;
+}
+h3.accordion:hover{
+  font-weight: 600;
+  font-size: 4rem;
+  cursor: pointer;
+  text-align: center;
+  transition:all 0.3s ease;
+}
+div.accordion{ 
+  display: none; 
+}
 /* ------------------------------------------------------------------- 
  * ## section header
  * ------------------------------------------------------------------- */
@@ -2658,13 +2671,14 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-  padding-top: 20rem;
+  padding-top: 4rem;
   padding-bottom: 0;
   background-color: #00a650;
   color: rgba(255, 255, 255, 0.8);
   overflow: hidden;
   position: relative;
 }
+
 
 .s-about .display-1,
 .s-about h3 {
